@@ -1,1 +1,1 @@
-# mipt-parallel-spring-2015
+# MIPT Parallel Programming cource. Spring-2015
